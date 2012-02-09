@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TETHERBALL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="TETHERBALL.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="mojo" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/scala-library.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/slick-util.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/lwjgl_util.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/jinput/jinput.jar" />
+      <element id="file-copy" path="$USER_HOME$/Library/Application Support/IntelliJIdea10CE/jr-ide-idea/lib/jrebel/jrebel.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/lwjgl.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/scala-compiler.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/slf4j-1.6.4/slf4j-api-1.6.4.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/slf4j-1.6.4/slf4j-simple-1.6.4.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/slick.jar" />
+      <element id="file-copy" path="$USER_HOME$/javaclasses/jbox2d-library-2.1.2.jar" />
+    </root>
+  </artifact>
+</component>

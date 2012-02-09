@@ -1,0 +1,6 @@
+
+timing function / object : se we can run some closure at intervals / with delay
+    - possibly with chaining e.g. when(2) { ... } then { ... }
+
+
+
